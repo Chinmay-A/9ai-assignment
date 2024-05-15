@@ -1,5 +1,8 @@
 # 9AI Python Developer Intern Assignment
 
+Name: Chinmay Amrutkar
+Email: chinmayaons1@gmail.com / chinmayma21@iitk.ac.in
+
 ### Build Instructions:
 
 - Download the zip file from github
