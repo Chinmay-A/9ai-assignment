@@ -1,6 +1,6 @@
 # 9AI Python Developer Intern Assignment
 
-Name: Chinmay Amrutkar
+Name: Chinmay Amrutkar__
 Email: chinmayaons1@gmail.com / chinmayma21@iitk.ac.in
 
 ### Build Instructions:
